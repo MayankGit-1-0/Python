@@ -15,3 +15,9 @@ print(isMale)
 ##Input
 Name=input("Identify yourself")
 print(Name)
+
+##Indentation
+fruits = ["apple", "banana", "cherry"]
+
+for fruit in fruits:
+    print(fruit)
